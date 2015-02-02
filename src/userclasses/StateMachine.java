@@ -17,6 +17,7 @@ public class StateMachine extends StateMachineBase {
     }
     /*add comment
      * codenameone project
+     * git hub
   */
 	protected void initVars(Resources res){
 	}
