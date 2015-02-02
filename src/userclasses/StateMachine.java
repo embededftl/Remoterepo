@@ -23,8 +23,6 @@ public class StateMachine extends StateMachineBase {
      * c#
      * c
      * dot net
-     * 
-     * 
   */
 	protected void initVars(Resources res){
 	}
