@@ -16,7 +16,7 @@ public class StateMachine extends StateMachineBase {
      
     }
     /*add comment
-     * bkjbkjbkjbkjb
+     * codenameone project
   */
 	protected void initVars(Resources res){
 	}
