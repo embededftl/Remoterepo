@@ -16,7 +16,6 @@ public class StateMachine extends StateMachineBase {
      
     }
     /*add comment
-     * bkjbkjbkjbkjb
   */
 	protected void initVars(Resources res){
 	}
