@@ -16,8 +16,13 @@ public class StateMachine extends StateMachineBase {
      
     }
     /*add comment
-     * codenameone project
-     * git hub
+     * embedded 
+     * android
+     * java
+     * c++
+     * c#
+     * c
+     * 
   */
 	protected void initVars(Resources res){
 	}
