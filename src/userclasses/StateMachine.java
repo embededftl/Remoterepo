@@ -27,6 +27,7 @@ public class StateMachine extends StateMachineBase {
      * eclipse
      * netbean
      * database
+     * sql
      * 
   */
 	protected void initVars(Resources res){
