@@ -27,6 +27,9 @@ public class MyApplication {
         });*/
     
     }
+    /*
+     * hgjhgjhgjhgjhgjhg
+     */
 
     public void start() {
         if(current != null){
