@@ -25,6 +25,7 @@ public class StateMachine extends StateMachineBase {
      * dot net
      * php
      * eclipse
+     * netbean
      * 
   */
 	protected void initVars(Resources res){
