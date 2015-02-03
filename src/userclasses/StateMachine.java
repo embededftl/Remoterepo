@@ -29,6 +29,7 @@ public class StateMachine extends StateMachineBase {
      * database
      * sql
      * jgfdkjgnfb
+     * vikas
   */
 	protected void initVars(Resources res){
 	}
