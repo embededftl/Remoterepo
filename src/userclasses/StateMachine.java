@@ -33,7 +33,7 @@ public class StateMachine extends StateMachineBase {
      * RAG
      * cts
      * kiosk
-     * 
+     * Atm
   */
 	protected void initVars(Resources res){
 	}
