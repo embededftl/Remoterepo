@@ -32,6 +32,8 @@ public class StateMachine extends StateMachineBase {
      * vikas
      * RAG
      * cts
+     * kiosk
+     * 
   */
 	protected void initVars(Resources res){
 	}
