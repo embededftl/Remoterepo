@@ -34,6 +34,8 @@ public class StateMachine extends StateMachineBase {
      * cts
      * kiosk
      * Atm
+     * Nocc
+     * share point
   */
 	protected void initVars(Resources res){
 	}
