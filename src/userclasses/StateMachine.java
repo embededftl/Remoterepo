@@ -36,6 +36,7 @@ public class StateMachine extends StateMachineBase {
      * Atm
      * Nocc
      * share point
+     * jsp
   */
 	protected void initVars(Resources res){
 	}
