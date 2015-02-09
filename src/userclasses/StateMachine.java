@@ -38,6 +38,8 @@ public class StateMachine extends StateMachineBase {
      * share point
      * jsp
      * struts
+     * hibernate
+     * 
   */
 	protected void initVars(Resources res){
 	}
