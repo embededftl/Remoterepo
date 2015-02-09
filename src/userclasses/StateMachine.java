@@ -39,6 +39,7 @@ public class StateMachine extends StateMachineBase {
      * jsp
      * struts
      * hibernate
+     * python
      * 
   */
 	protected void initVars(Resources res){
