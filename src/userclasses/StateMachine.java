@@ -40,7 +40,7 @@ public class StateMachine extends StateMachineBase {
      * struts
      * hibernate
      * python
-     * 
+     * perl
   */
 	protected void initVars(Resources res){
 	}
