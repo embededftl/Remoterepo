@@ -10,6 +10,7 @@ public class TestClass {
 	 *embedded
 	 *new edit
 	 *data
+	 *sql
 	 */
 
 }
