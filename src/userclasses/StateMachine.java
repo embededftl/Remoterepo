@@ -43,6 +43,7 @@ public class StateMachine extends StateMachineBase {
      * perl
      * ruby
      * vikas
+     * ftl
      * 
   */
 	protected void initVars(Resources res){
