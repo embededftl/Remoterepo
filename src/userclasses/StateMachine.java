@@ -41,6 +41,8 @@ public class StateMachine extends StateMachineBase {
      * hibernate
      * python
      * perl
+     * ruby
+     * 
   */
 	protected void initVars(Resources res){
 	}
