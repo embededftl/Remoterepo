@@ -44,6 +44,7 @@ public class StateMachine extends StateMachineBase {
      * ruby
      * vikas
      * ftl
+     * sales
      * 
   */
 	protected void initVars(Resources res){
