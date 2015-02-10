@@ -46,6 +46,7 @@ public class StateMachine extends StateMachineBase {
      * ftl
      * sales
      * marketting
+     * HR
   */
 	protected void initVars(Resources res){
 	}
